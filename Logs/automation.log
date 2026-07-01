@@ -1,0 +1,88 @@
+2026-06-19 18:08:33,187 - LogGen - INFO - ***************Test_001_Login****************
+2026-06-19 18:08:33,188 - LogGen - INFO - ***************Verifying Home Page Title****************
+2026-06-19 18:08:51,905 - LogGen - INFO - ***************HomePge Title Test is Passed****************
+2026-06-19 18:08:59,530 - LogGen - INFO - ***************Login Test Case Started****************
+2026-06-19 18:09:34,002 - LogGen - INFO - ***************Login Test Case Passed****************
+2026-06-19 20:41:56,181 - LogGen - INFO - ***************Test_001_Login****************
+2026-06-19 20:41:56,182 - LogGen - INFO - ***************Verifying Home Page Title****************
+2026-06-19 20:42:03,145 - LogGen - INFO - ***************HomePge Title Test is Passed****************
+2026-06-19 20:42:29,843 - LogGen - INFO - ***************Login Test Case Started****************
+2026-06-19 20:42:43,241 - LogGen - INFO - ***************Login Test Case Passed****************
+2026-06-19 20:53:14,834 - LogGen - INFO - ***************Test_001_Login****************
+2026-06-19 20:53:14,836 - LogGen - INFO - ***************Verifying Home Page Title****************
+2026-06-19 20:53:16,497 - LogGen - INFO - ***************Login Test Case Started****************
+2026-06-19 20:53:21,783 - LogGen - INFO - ***************HomePge Title Test is Passed****************
+2026-06-19 21:04:45,379 - LogGen - INFO - ***************Login Test Case Started****************
+2026-06-19 21:04:49,891 - LogGen - INFO - ***************Test_001_Login****************
+2026-06-19 21:04:49,891 - LogGen - INFO - ***************Verifying Home Page Title****************
+2026-06-19 21:05:05,495 - LogGen - INFO - ***************HomePge Title Test is Passed****************
+2026-06-19 21:05:51,463 - LogGen - INFO - ***************Login Test Case Passed****************
+2026-06-19 21:10:40,972 - LogGen - INFO - ***************Login Test Case Started****************
+2026-06-19 21:10:41,010 - LogGen - INFO - ***************Test_001_Login****************
+2026-06-19 21:10:41,011 - LogGen - INFO - ***************Verifying Home Page Title****************
+2026-06-19 21:10:54,888 - LogGen - INFO - ***************Login Test Case Passed****************
+2026-06-19 21:10:56,752 - LogGen - INFO - ***************HomePge Title Test is Passed****************
+2026-06-19 21:54:08,527 - LogGen - INFO - ***************Test 002 DDT Login
+2026-06-19 21:54:08,532 - LogGen - INFO - ***************Login Test Case DDT Started****************
+2026-06-20 17:42:52,943 - LogGen - INFO - ***************Test 002 DDT Login
+2026-06-20 17:42:52,946 - LogGen - INFO - ***************Login Test Case DDT Started****************
+2026-06-20 17:44:02,701 - LogGen - INFO - ***************Test 002 DDT Login
+2026-06-20 17:44:02,709 - LogGen - INFO - ***************Login Test Case DDT Started****************
+2026-06-20 17:57:54,101 - LogGen - INFO - ***************Test 002 DDT Login
+2026-06-20 17:57:54,327 - LogGen - INFO - ***************Login Test Case DDT Started****************
+2026-06-20 17:59:26,869 - LogGen - INFO - ***************Test 002 DDT Login
+2026-06-20 17:59:26,870 - LogGen - INFO - ***************Login Test Case DDT Started****************
+2026-06-20 18:00:20,883 - LogGen - INFO - ***************Test 002 DDT Login
+2026-06-20 18:00:21,289 - LogGen - INFO - ***************Login Test Case DDT Started****************
+2026-06-22 13:41:34,169 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 13:43:11,155 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 13:52:41,458 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 14:02:11,191 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 14:03:10,875 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 14:05:17,815 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 14:45:53,398 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 14:50:43,583 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 19:35:11,123 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 19:35:43,211 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-22 19:35:43,211 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-22 19:46:27,258 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 19:46:49,883 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-22 19:46:49,883 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-22 19:48:59,449 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 19:50:03,212 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-22 19:50:03,212 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-22 19:51:22,472 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-22 19:52:14,214 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-22 19:52:14,214 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:14:12,066 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:15:57,458 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:16:35,360 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:16:35,360 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:17:55,683 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:19:07,830 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:19:07,831 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:25:05,016 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:25:29,330 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:25:29,330 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:26:23,804 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:26:59,416 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:26:59,416 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:27:54,881 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:28:18,841 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:28:18,841 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:29:44,971 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:30:08,241 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:30:08,241 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:34:11,510 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:35:23,283 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:35:23,283 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-23 12:39:01,507 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-23 12:39:51,538 - LogGen - INFO - ****** Login SuccessFull***************
+2026-06-23 12:39:51,538 - LogGen - INFO - *************Starting Add Customer Test************
+2026-06-29 11:36:58,583 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-29 11:37:50,697 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-29 11:40:13,632 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-29 11:45:21,940 - LogGen - INFO - *****************Test_003_AddCustomer***********
+2026-06-29 13:36:31,913 - LogGen - INFO - ******************SearchCustomerByEmail_004**************
+2026-06-29 13:37:29,595 - LogGen - INFO - ******************SearchCustomerByEmail_004**************
+2026-07-01 12:21:01,891 - LogGen - INFO - ******************SearchCustomerByEmail_004**************
